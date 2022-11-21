@@ -41,11 +41,6 @@ PandoLogicWebServer
 Required software: Visual Studio.
 
 ## Run Applications
-There are 2 options to run the system:
- - Using localhost
- - Using Docker-compose
-
- Localhost Option:
 
  angular-pandologic-jobs:
   - Go to download folder ./angular-pandologic-jobs and open cmd window
